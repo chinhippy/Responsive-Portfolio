@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: url("../images/carbon_fibre.png");
   }
   
   * {
@@ -35,7 +35,7 @@ body {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: #d68915;
   }
   
   h1 {
@@ -58,8 +58,8 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
-    background: #ffffff;
+    color: #bfd3d6;
+    background: #cacad6;
     border-bottom: 2px solid #cccccc;
   }
   
@@ -74,7 +74,7 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: #d68915;
   }
   
   nav {
@@ -106,7 +106,7 @@ body {
     color: #cccccc;
     text-align: center;
     background: #666666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #d68915;
     height: 50px;
   }
   
@@ -212,7 +212,7 @@ body {
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
-    background: #4aaaa5;
+    background: #d68915;
     border: 0 none;
   }
 
