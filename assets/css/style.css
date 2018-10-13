@@ -236,6 +236,7 @@ body {
     nav {
       float: left;
       margin-left: 20%;
+      /* margin-right: 10%; */
     }
     .main-section {
        
