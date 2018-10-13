@@ -215,4 +215,57 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  @media(max-width:980px){
+    nav {
+      float: left;
+      margin-left: 20%;
+    }
+  .container{
+  max-width: 100%;
+  }
+  
+  
+  #main-container{
+    float: left;
+   width: 80% ;
+  }
+  
+  @media(max-width:768px){
+    header
+    nav {
+      float: left;
+      margin-left: 20%;
+    }
+    .main-section {
+       
+       margin-bottom:15%;
+       margin-top: 15%;
+    }
+    .container {max-width: 100%;
+    }  
+    #main-container{ width:100%;
+    
+    }
+  
+    
+    @media (max-width: 640px){
+      
+    nav {
+      float: left;
+      margin-left: 10%;
+    }
+    
+    .container { max-width: 100%;
+    
+  
+      }
+      #main-container {
+        max-width: 100%;
+      }
+      #logo{ width: 100%;}
+  
+      }
+    }
+  }
   
